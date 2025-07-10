@@ -6,3 +6,6 @@ git commit -m "커밋내용" : 커밋하기
 
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
+
+git branch -M main : 로컬 브랜치이름을 main으로
+git remote add origin https://github.com/아이디/본인저장소.git
