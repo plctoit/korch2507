@@ -1,0 +1,5 @@
+https://teachablemachine.withgoogle.com
+https://www.moralmachine.net/
+https://www.tensorflow.org/?hl=ko
+https://www.kaggle.com/
+https://colab.research.google.com/
